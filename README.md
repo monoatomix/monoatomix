@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @M0N0Atomic
-- 👀 I’m interested in coding and technology
-- 🌱 I’m currently learning python
-- 📫 How to reach me ...
+- 👋 Hi, I’m @M0N0Atomic.
+- 👀 I’m interested in coding and technology.
+- 🌱 I’m currently learning python, javascript.
 
 <!---
 M0N0Atomic/M0N0Atomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
