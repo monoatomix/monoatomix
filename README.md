@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R%20%28Programming%20Language%29-white?style=flat&logo=r&logoColor=3670A0)
 ![RStudio](https://img.shields.io/badge/RStudio-white?style=flat&logo=r&logoColor=3670A0)
-![Rust](https://img.shields.io/badge/Rust-%23f5c460.svg?style=flat&logo=rust&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-%23FEFFDD.svg?style=flat&logo=rust&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL--STUDIO--CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
