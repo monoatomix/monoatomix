@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%2300005b.svg?style=flat&logo=adobepremierepro&logoColor=99f)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-945c04.svg?style=flat&logo=adobeillustrator&logoColor=f8a829)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-3C240C.svg?style=flat&logo=adobeillustrator&logoColor=f8a829)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
