@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @M0N0Atomic.
+## 👋 Hi, I’m Aniket.
 ---
 <!--
 ### About Me
