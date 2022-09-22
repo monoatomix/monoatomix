@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-181717?style=flat&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Reactjs](https://img.shields.io/badge/React.js-%61DBFB.svg?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R%20%28Programming%20Language%29-white?style=flat&logo=r&logoColor=3670A0)
 ![RStudio](https://img.shields.io/badge/RStudio-white?style=flat&logo=r&logoColor=3670A0)
