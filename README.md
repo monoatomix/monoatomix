@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### GitHub Stats
-[![M0N0Atomic's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0N0Atomic&theme=yeblu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![monoatomix's GitHub stats](https://github-readme-stats.vercel.app/api?username=monoatomix&theme=yeblu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
