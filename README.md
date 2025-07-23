@@ -19,15 +19,15 @@ You can click the Preview link to take a look at your changes.
 ![RStudio](https://img.shields.io/badge/RStudio-white?style=flat&logo=r&logoColor=3670A0)
 ![Rust](https://img.shields.io/badge/Rust-%23FEFFDD.svg?style=flat&logo=rust&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-282a36?style=flat&logo=linux&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/AWS-282a36?style=flat&logo=amazonaws&logoColor=yellow)
-![Azure](https://img.shields.io/badge/Azure-007FFF?style=flat&logo=microsoftazure)
+![Azure](https://img.shields.io/badge/Azure-007FFF?style=flat&logo=azure)
 ![Linode](https://img.shields.io/badge/Linode-006400?style=flat&logo=linode&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFFFFF?style=flat&logo=cloudflare&logoColor=E34F26)
 ![Heroku](https://img.shields.io/badge/Heroku-6762A6?style=flat&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FFFFFF?style=flat&logo=googlecloud)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-FFFFFF?style=flat&logo=googlecolab&logoColor=E34F26)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-282a36?style=flat&logo=elasticsearch)
 ![MongoDB](https://img.shields.io/badge/mongoDB-282a36?style=flat&logo=mongodb)
 
 ---
